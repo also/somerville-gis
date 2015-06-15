@@ -4,6 +4,10 @@
 
 https://data.somervillema.gov/GIS-data/Building-Footprints/9tff-bs9a
 
+## [Elevation](elevation.tiff)
+
+http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/elev2005.html
+
 ## [Precincts](precincts.geojson)
 
 <a href="http://oneclick.cartodb.com/?file=https://raw.githubusercontent.com/also/somerville-gis/master/precincts.geojson"><img src="https://cartodb-libs.global.ssl.fastly.net/open-in-cartodb/button-grey.png" title="Open in CartoDB" /></a>
@@ -33,3 +37,5 @@ https://data.somervillema.gov/GIS-data/Wards/desy-d48q
 ?
 
 Data Provided By [City of Somerville, Massachusetts](http://www.somervillema.gov)
+
+[Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/datalayers/overview.html)
